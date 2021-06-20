@@ -33,7 +33,7 @@ If you would like to try DarkCSS, it's simple! Please have node and npx if you n
 npm i -g darkcss
 ```
 
-After that, for proper DarkCSS, please make a `main.dark` file, and if you want to make a `package.json` file, in scripts make a `build:css`, and put in the following. Also put he following in the terminal if you do not want a `package.json`, (if you need it put npx as the first arg):
+After that, for proper DarkCSS, please make a `main.dark` file, and if you want to make a `package.json` file, in scripts make a `build:css`, and put in the following. Also put the following in the terminal if you do not want a `package.json`, (if you need it put npx as the first arg):
 ```
 darkcss main.dark -o main.css
 ```
